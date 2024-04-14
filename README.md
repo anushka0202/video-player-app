@@ -56,11 +56,11 @@ video-player-app/\
       - PlaylistItem.jsx: Represents a single item in the playlist. It displays video information and handles selection and drag-and-drop functionality.
       - VideoPlayer.jsx: Displays the video player interface, including controls for play/pause, seeking, volume, fullscreen mode, and speed selector. It also handles autoplay functionality and triggers the next video in the playlist when the current one ends.
       - Navbar.jsx: Renders a navigation bar at the top of the page.
-- index.js: Entry point of the application.
-- index.css: Global styles for the application.
-- App.js: Main component that orchestrates the application.
-- App.css: Component-specific styles.
-- mediaData.js: External file containing media information.
+  - index.js: Entry point of the application.
+  - index.css: Global styles for the application.
+  - App.js: Main component that orchestrates the application.
+  - App.css: Component-specific styles.
+  - mediaData.js: External file containing media information.
 - README.md: Instructions and overview of the project.
 - package.json: File containing project dependencies and scripts.
 
